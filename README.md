@@ -1,2 +1,3 @@
 # Agentes
-This respository was created with the intention to learn more about Intelligente Agent
+This repository was created with the intention to learning more about Intelligente Agents
+
